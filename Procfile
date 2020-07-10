@@ -1,0 +1,1 @@
+web:gunicorn nivan.wsgi --log-file -
